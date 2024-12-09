@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hello, World!
 
-<!--
-**thejeXD/thejeXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Whitelist or thejeXD]**, a passionate developer and designer with over **3 years of experience** specializing in **Lua scripting** and **UI development** on Roblox. 🚀 I love turning ideas into immersive experiences and bringing creativity to life through scripting and design.
 
-Here are some ideas to get you started:
+### 🔧 Skills & Expertise
+- **Programming:** Lua (Roblox :  intermediate), Node.js, JavaScript (beginner)
+- **UI/UX Development:** Creating modern, intuitive interfaces for games and apps.
+- **Graphics Design:** Skilled in Photoshop and graphic editing for branding, UI assets, and more.
+- **Software Proficiency:** Versatile with tools and platforms for coding, design, and collaboration.
+- **Modifications:** Adept at tweaking and customizing systems to enhance functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 What I Do
+- Develop and optimize Roblox games with engaging scripts and clean UIs.
+- Design graphics and visual assets with Photoshop and other tools.
+- Experiment with Node.js and JavaScript for emerging projects.
+- Modify existing systems to meet specific needs or improve performance.
+
+### 🚀 Currently Exploring
+- **Node.js** for backend development.
+- Expanding my expertise in JavaScript and integrating it into dynamic projects.
